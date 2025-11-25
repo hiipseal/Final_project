@@ -1,0 +1,5 @@
+# data 폴더 전체 무시
+data/
+
+# 주피터 노트북 체크포인트 무시 (추천)
+.ipynb_checkpoints/
