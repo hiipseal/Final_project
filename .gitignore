@@ -3,3 +3,9 @@ data/
 
 # 주피터 노트북 체크포인트 무시 (추천)
 .ipynb_checkpoints/
+
+ # MAC 유저를 위한
+ .DS_Store
+
+ # csv파일 제외 (대용량)
+ *.csv
